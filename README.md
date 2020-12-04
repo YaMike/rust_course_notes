@@ -13,6 +13,9 @@ rustc hello.rs
 ###p2_RustSample
 ####Description
 Hello world project created with a cargo
+$ cargo new p2_RustSample --bin
+$ cd p2_RustSample
+$ cargo run
 ####Build:
 cargo build
 ####Run:
