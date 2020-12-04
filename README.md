@@ -2,7 +2,7 @@
 ##Test examples for the course
 ###p1_RustSample
 ####Description:
-Simplest possible example - one file
+Hello world project created within a command line
 ####Build:
 rustc hello.rs
 ####Run:
@@ -12,15 +12,23 @@ rustc hello.rs
 
 ###p2_RustSample
 ####Description
+Hello world project created with a cargo
 ####Build:
+cargo build
 ####Run:
+cargo run
 ####Output:
+"Hello, Rust!"
 
 ###p3_RustSample
 ####Description
+Hello world created with Intelli Idea
 ####Build:
+button 'build' in intelli idea
 ####Run:
+button 'run' in intelli idea
 ####Output:
+"Hello, Rust"
 
 ###p3_RustSample
 ####Description
