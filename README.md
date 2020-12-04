@@ -30,7 +30,13 @@ button 'run' in intelli idea
 ####Output:
 "Hello, Rust"
 
-###p3_RustSample
+###p4_RustSample
+####Description
+####Build:
+####Run:
+####Output:
+
+###p5_RustSample
 ####Description
 ####Build:
 ####Run:
