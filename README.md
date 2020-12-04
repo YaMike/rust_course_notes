@@ -1,5 +1,5 @@
 #The Rust Programming Language
-##Test examples for the course
+##Course code notes
 ###p1_RustSample
 ####Description:
 Hello world project created within a command line
@@ -33,10 +33,20 @@ button 'run' in intelli idea
 ####Output:
 "Hello, Rust"
 
-###p4_RustSample
+###p4_RustTypeAndVars
 ####Description
+Type and vars introduction:
+* operators
+* fundamental data types
+* scope and shadowing
+* stack and heap
+
+$ cargo new p4_RustTypeAndVars --bin
+$ cd p4_RustTypeAndVars
 ####Build:
+cargo build
 ####Run:
+cargo run
 ####Output:
 
 ###p5_RustSample
