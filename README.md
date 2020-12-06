@@ -132,4 +132,12 @@ x false is s false
 #### Output:
  UNLOCKED
 
-
+### p6RustDataStructures
+#### Description
+ Notes on "Section 4: Data Structures"
+#### Build:
+ cargo build
+#### Run:
+ cargo run
+#### Input:
+#### Output:
