@@ -17,7 +17,7 @@ fn process_value(iof: IntOrFloat)
             }
 
             IntOrFloat { f } => {
-                println!("value = {}", f)
+                println!("process_value: value = {}", f)
             }
         }
     }
